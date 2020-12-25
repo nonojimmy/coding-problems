@@ -1,0 +1,11 @@
+{
+  "name": "coding-problems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nonojimmy/coding-problems.git",
+  "author": "Jimmy Song <contact@jsong.ca>",
+  "license": "MIT",
+  "scripts": {
+    "run": "node $npm_config_problem"
+  }
+}
